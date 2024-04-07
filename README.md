@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/x6vae0f9nti0u43x?svg=true)](https://ci.appveyor.com/project/lissichka123/testingapi)
+[![Build status](https://ci.appveyor.com/api/projects/status/x6vae0f9nti0u43x/branch/main?svg=true)](https://ci.appveyor.com/project/lissichka123/testingapi/branch/main)
